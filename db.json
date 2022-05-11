@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "location": "Hong Kong",
+      "account": "kennychow1016",
+      "avatar": "/images/avatars/a1.png",
+      "photo": "/images/posts/main1.png",
+      "likes": 888,
+      "description": "I make it!",
+      "hashTags": "#Hire Me",
+      "createTime": "1 HOURS AGO"
+    },
+    {
+      "id": 2,
+      "location": "World",
+      "account": "Mary",
+      "avatar": "/images/avatars/a2.png",
+      "photo": "/images/posts/main2.png",
+      "likes": 333,
+      "description": "Second Post!",
+      "hashTags": "#frontend",
+      "createTime": "5 HOURS AGO"
+    },
+    {
+      "id": 3,
+      "location": "Taipei",
+      "account": "Ken",
+      "avatar": "/images/avatars/a3.png",
+      "photo": "/images/posts/main3.png",
+      "likes": 777,
+      "description": "Third Post!",
+      "hashTags": "#frontend",
+      "createTime": "6 HOURS AGO"
+    },
+    {
+      "id": 4,
+      "location": "Kwai Chung",
+      "account": "zoe",
+      "avatar": "/images/avatars/a4.png",
+      "photo": "/images/posts/main4.png",
+      "likes": 824,
+      "description": "Fourth Post!",
+      "hashTags": "#frontend",
+      "createTime": "7 HOURS AGO"
+    },
+    {
+      "id": 5,
+      "location": "Central",
+      "account": "kitty",
+      "avatar": "/images/avatars/a5.png",
+      "photo": "/images/posts/main5.png",
+      "likes": 98,
+      "description": "Fifth",
+      "hashTags": "#frontend",
+      "createTime": "10 HOURS AGO"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "name": "KennyChow",
+      "avatar": "/images/avatars/a1.png"
+    },
+    {
+      "id": 2,
+      "name": "max",
+      "avatar": "/images/avatars/a2.png"
+    },
+    {
+      "id": 3,
+      "name": "fm",
+      "avatar": "/images/avatars/a3.png"
+    },
+    {
+      "id": 4,
+      "name": "joanne",
+      "avatar": "/images/avatars/a4.png"
+    },
+    {
+      "id": 5,
+      "name": "focus",
+      "avatar": "/images/avatars/a5.png"
+    },
+    {
+      "id": 6,
+      "name": "louis",
+      "avatar": "/images/avatars/a6.png"
+    },
+    {
+      "id": 7,
+      "name": "alvin",
+      "avatar": "/images/avatars/a7.png"
+    },
+    {
+      "id": 8,
+      "name": "grace",
+      "avatar": "/images/avatars/a8.png"
+    },
+    {
+      "id": 9,
+      "name": "rance",
+      "avatar": "/images/avatars/a9.png"
+    },
+    {
+      "id": 10,
+      "name": "bruce",
+      "avatar": "/images/avatars/a10.png"
+    }
+  ]
+}
